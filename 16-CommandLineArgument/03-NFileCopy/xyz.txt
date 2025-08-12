@@ -1,0 +1,6 @@
+---------COYPING:abc.txt UTF-8--------
+India is my contry
+--------------------------------------
+---------COYPING:pqr.txt UTF-8--------
+I love my contry
+--------------------------------------
